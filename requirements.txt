@@ -1,5 +1,5 @@
 pandas
-urllib.parse
+urllib
 networkx
 requests
 bs4
