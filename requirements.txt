@@ -4,5 +4,4 @@ networkx
 requests
 bs4
 regex
-time
 tqdm
