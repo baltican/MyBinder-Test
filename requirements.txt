@@ -3,6 +3,6 @@ urllib3
 networkx
 requests
 bs4
-re
+regex
 time
 tqdm
